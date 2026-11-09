@@ -1,0 +1,6 @@
+@Kirov_DA_test_HostAddress = http://localhost:5062
+
+GET {{Kirov_DA_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
